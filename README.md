@@ -17,7 +17,7 @@ Nesse Projeto foi desenvolvido uma página que toca diferentes sons a cada botã
 
   <h4 align="center"> <b>Clique sobre a imagem para ir para o site </b>:eyes:  
   </h4>
-  <a href = "https://alura-midi-349r.vercel.app/" target="_blank" ><img alt="Robotron" src="https://i.imgur.com/dnKiVWz.png"></a>
+  <a target="_blank" href = "https://alura-midi-349r.vercel.app/"><img alt="Robotron" src="https://i.imgur.com/dnKiVWz.png"></a>
 
 
 </hr>
