@@ -26,9 +26,8 @@ Nesse Projeto foi desenvolvido uma página que toca diferentes sons a cada botã
 
 ## **Aprendizagens** 
 
-- Manipular o DOM(Document object model)
-- Uso de constantes, funções anônimas, funções de seta e funções declaradas na criação das funcionalidades do jogo.
-- Data-atrributes;
+- Manipular botões
+- Uso de constantes, whiles e for, acessar lista e manipular o DOM.
 - Manipulação de eventos, dados e elementos com JavaScript;
 
 
